@@ -8,4 +8,6 @@ id="myTopnav">
 href="contact.html">Contact</a> 
   <a 
 href="about.html">About</a> 
-</div>
+  <a href= "open.html"> Open Source</a> 
+  <a href= "cc.html"> Creative Commons</a> 
+  </div>
