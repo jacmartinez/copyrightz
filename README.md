@@ -1,6 +1,7 @@
 # copyrightz 
 <style>
-p.dotted {border-style: dotted;} 
+p.dotted {border-
+  style: dotted;} 
 </style>
 </head> 
 <body>
