@@ -1,7 +1,8 @@
 # copyrightz 
+<head>
 <style>
-dotted {border-
-  style: dotted;} 
+.steps {border-style: dotted; border width: 5px;} 
+.dotted {border-style: dotted;}
 </style>
 </head> 
 <body>
